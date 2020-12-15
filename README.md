@@ -18,3 +18,19 @@ Users can make video calls and audio calls with good voice quality.
 - Admin exit from group automatically assign another group member as an admin.
 
 All Code on Archive.zip
+
+/**
+	*  Created by dz_melodya
+	*  Tanjungpinang - Kepulauan Riau 12/12/20
+	*  Copyright (c) 2020. All rights reserved.
+	*  dz.melodya@hotmail.com
+	*  bangwok.app@gmail.com
+ */
+
+How To Use :
+* Make Firebase Console Account Replace google.json file ( Refactor / Rename Project )
+* Make Sinch Account : https://portal.sinch.com
+
+*You can change anything without forgetting the copyright
+
+#CROOOOOOOT
